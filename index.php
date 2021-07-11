@@ -1,0 +1,4 @@
+<?php
+    /**
+     * Wordpress Template Sites
+     */
