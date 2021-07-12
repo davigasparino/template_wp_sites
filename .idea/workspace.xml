@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Freelas/Lab/app/public/wp-content/themes/template_wp_sites" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -35,7 +35,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626029232781</updated>
-      <workItem from="1626029233845" duration="4238000" />
+      <workItem from="1626029233845" duration="3564000" />
+      <workItem from="1626056872130" duration="590000" />
     </task>
     <servers />
   </component>
@@ -43,9 +44,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="459" key="FileChooserDialogImpl" timestamp="1626056868903">
+    <state x="420" y="459" key="FileChooserDialogImpl" timestamp="1626057466052">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="414" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1626056868903" />
+    <state x="420" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1626057466052" />
   </component>
 </project>
