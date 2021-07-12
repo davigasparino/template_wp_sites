@@ -18,9 +18,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Freelas/Lab/app/public/wp-content/themes/template_wp_sites" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Abril\Projects\template_wp_sites" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,11 +35,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626029232781</updated>
-      <workItem from="1626029233845" duration="3564000" />
+      <workItem from="1626029233845" duration="4238000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="459" key="FileChooserDialogImpl" timestamp="1626056868903">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="414" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1626056868903" />
   </component>
 </project>
