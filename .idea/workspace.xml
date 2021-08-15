@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9f1a31e-5482-45ab-bbe4-c84182205994" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style-admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style-admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/functions-filters.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/functions-filters.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,13 +56,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b8a86cf-2963-46f2-abc4-be1b61cd470a" name="Default Changelist" comment="" />
+      <changelist id="d9f1a31e-5482-45ab-bbe4-c84182205994" name="Default Changelist" comment="" />
       <created>1626029232781</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626029232781</updated>
       <workItem from="1626029233845" duration="3564000" />
       <workItem from="1626056872130" duration="590000" />
+      <workItem from="1626822161655" duration="140000" />
+      <workItem from="1629054092482" duration="177000" />
     </task>
     <servers />
   </component>
@@ -77,11 +81,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="420" y="459" key="FileChooserDialogImpl" timestamp="1626057466052">
+    <state x="420" y="459" key="FileChooserDialogImpl" timestamp="1626822300857">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="420" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1626057466052" />
+    <state x="420" y="459" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1626822300857" />
   </component>
 </project>

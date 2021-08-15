@@ -49,12 +49,6 @@ if( is_admin() ){
     );
     $GamaTheme_theme_options->add_custom_field( 'input', 'Instagram', $args );
 
-    $args = array(
-        'atributos' => array(
-            'name' => 'telefone_site'
-        )
-    );
-    $GamaTheme_theme_options->add_custom_field( 'input', 'Telefone', $args );
 }
 
 //
